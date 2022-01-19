@@ -16,4 +16,5 @@ For the final project of Udacity's AI programming with Python Nanodegree I was t
 ## Files
 
 Jupyter Notebook - shows the code as well as the results of running it
+
 .py scripts - taken together provide utility as a command line tool for training a model and using it for inference
